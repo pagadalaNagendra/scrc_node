@@ -1,0 +1,18 @@
+{
+  "node_id": "node-12-12-12",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_201470073\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-201470073\",\n      \"pi\" : \"/in-cse/cnt-562120225\",\n      \"ct\" : \"20241115T114131\",\n      \"lt\" : \"20241115T114131\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 0,\n      \"con\" : \"\"\n   }\n}",
+  "username": "unknown"
+},
+{
+  "node_id": "node-12-12-12",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_156762075\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-156762075\",\n      \"pi\" : \"/in-cse/cnt-562120225\",\n      \"ct\" : \"20241115T114141\",\n      \"lt\" : \"20241115T114141\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 0,\n      \"con\" : \"\"\n   }\n}",
+  "username": "unknown"
+},
+{
+  "node_id": "node-12-12-12",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_284380481\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-284380481\",\n      \"pi\" : \"/in-cse/cnt-562120225\",\n      \"ct\" : \"20241115T114151\",\n      \"lt\" : \"20241115T114151\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 0,\n      \"con\" : \"\"\n   }\n}",
+  "username": "unknown"
+},

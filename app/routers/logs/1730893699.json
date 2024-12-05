@@ -1,0 +1,115 @@
+{
+  "node_id": "AQ-1010101",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_6430611\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-6430611\",\n      \"pi\" : \"/in-cse/cnt-308944852\",\n      \"ct\" : \"20241106T114820\",\n      \"lt\" : \"20241106T114820\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-06T17:18:19.892806', 'value': 34.38}]\"\n   }\n}"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "AQ-1010101",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_16163514\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-16163514\",\n      \"pi\" : \"/in-cse/cnt-308944852\",\n      \"ct\" : \"20241106T114830\",\n      \"lt\" : \"20241106T114830\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-06T17:18:19.892806', 'value': 34.38}]\"\n   }\n}"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "AQ-1010101",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_555279878\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-555279878\",\n      \"pi\" : \"/in-cse/cnt-308944852\",\n      \"ct\" : \"20241106T114840\",\n      \"lt\" : \"20241106T114840\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-06T17:18:19.892806', 'value': 34.38}]\"\n   }\n}"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "AQ-1010101",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_687272115\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-687272115\",\n      \"pi\" : \"/in-cse/cnt-308944852\",\n      \"ct\" : \"20241106T114850\",\n      \"lt\" : \"20241106T114850\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-06T17:18:19.892806', 'value': 34.38}]\"\n   }\n}"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "AQ-1010101",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_146665650\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-146665650\",\n      \"pi\" : \"/in-cse/cnt-308944852\",\n      \"ct\" : \"20241106T114900\",\n      \"lt\" : \"20241106T114900\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-06T17:18:19.892806', 'value': 34.38}]\"\n   }\n}"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "node-10201-10",
+  "status_code": 404,
+  "error": "Resource not found"
+},
+{
+  "node_id": "AQ-1010101",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_480275679\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-480275679\",\n      \"pi\" : \"/in-cse/cnt-308944852\",\n      \"ct\" : \"20241106T114910\",\n      \"lt\" : \"20241106T114910\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-06T17:18:19.892806', 'value': 34.38}]\"\n   }\n}"
+},

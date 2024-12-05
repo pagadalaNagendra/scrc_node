@@ -1,0 +1,18 @@
+{
+  "node_id": "AQ-8989",
+  "status_code": 500,
+  "error": "Could not find the TLS certificate file, invalid path: C:\\Users\\NAGENDRA\\Desktop\\nodemulti\\node-simulator\\backend\\app\\routers\\certificates\\AQ-8989\\SOTIiithWQ1.crt",
+  "username": "Nagendra"
+},
+{
+  "node_id": "AQ-123-122",
+  "status_code": 500,
+  "error": "Could not find the TLS certificate file, invalid path: C:\\Users\\NAGENDRA\\Desktop\\nodemulti\\node-simulator\\backend\\app\\routers\\certificates\\AQ-123-122\\SOTIiithWQ1.crt",
+  "username": "Nagendra"
+},
+{
+  "node_id": "AQ-0909",
+  "status_code": 500,
+  "error": "Could not find the TLS certificate file, invalid path: C:\\Users\\NAGENDRA\\Desktop\\nodemulti\\node-simulator\\backend\\app\\routers\\certificates\\AQ-0909\\SOTIiithWQ1.crt",
+  "username": "Nagendra"
+},

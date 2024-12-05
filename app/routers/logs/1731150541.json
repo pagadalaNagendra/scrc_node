@@ -1,0 +1,60 @@
+{
+  "node_id": "Ello1234",
+  "status_code": 500,
+  "error": ""
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_539225558\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-539225558\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T110904\",\n      \"lt\" : \"20241109T110904\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:39:01.626309', 'value': 21.11}]\"\n   }\n}"
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_422670841\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-422670841\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T110909\",\n      \"lt\" : \"20241109T110909\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:39:01.626309', 'value': 21.11}]\"\n   }\n}"
+},
+{
+  "node_id": "Ello1234",
+  "status_code": 500,
+  "error": ""
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_775852854\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-775852854\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T110914\",\n      \"lt\" : \"20241109T110914\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:39:01.626309', 'value': 21.11}]\"\n   }\n}"
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_733586495\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-733586495\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T110920\",\n      \"lt\" : \"20241109T110920\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:39:01.626309', 'value': 21.11}]\"\n   }\n}"
+},
+{
+  "node_id": "Ello1234",
+  "status_code": 500,
+  "error": ""
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_32693282\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-32693282\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T110925\",\n      \"lt\" : \"20241109T110925\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:39:01.626309', 'value': 21.11}]\"\n   }\n}"
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_828760037\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-828760037\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T110930\",\n      \"lt\" : \"20241109T110930\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:39:01.626309', 'value': 21.11}]\"\n   }\n}"
+},
+{
+  "node_id": "Ello1234",
+  "status_code": 500,
+  "error": ""
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_698290764\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-698290764\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T110935\",\n      \"lt\" : \"20241109T110935\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:39:01.626309', 'value': 21.11}]\"\n   }\n}"
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_849799136\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-849799136\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T110940\",\n      \"lt\" : \"20241109T110940\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:39:01.626309', 'value': 21.11}]\"\n   }\n}"
+},

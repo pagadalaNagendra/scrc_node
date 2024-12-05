@@ -1,0 +1,108 @@
+{
+  "node_id": "node_121_aq",
+  "status_code": 201,
+  "error": "{\"m2m:cin\":{\"rn\":\"4-20241202114934201\",\"ty\":4,\"pi\":\"3-20241202092925435802\",\"ri\":\"4-20241202114934201226\",\"ct\":\"20241202T114934\",\"lt\":\"20241202T114934\",\"st\":11,\"et\":\"20261202T114934\",\"cs\":61,\"con\":\"[{'timestamp': '2024-12-02T17:19:34.138279', 'value': 22.87}]\",\"cr\":\"SOriginAE\"}}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "node_121_aq",
+  "status_code": 201,
+  "error": "{\"m2m:cin\":{\"rn\":\"4-20241202114944257\",\"ty\":4,\"pi\":\"3-20241202092925435802\",\"ri\":\"4-20241202114944257935\",\"ct\":\"20241202T114944\",\"lt\":\"20241202T114944\",\"st\":12,\"et\":\"20261202T114944\",\"cs\":61,\"con\":\"[{'timestamp': '2024-12-02T17:19:34.138279', 'value': 22.87}]\",\"cr\":\"SOriginAE\"}}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139046\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232122\",\n    \"lt\" : \"20241204T232122\",\n    \"rn\" : \"cin5155775\",\n    \"et\" : \"20241214T232122\",\n    \"st\" : 81,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139049\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232132\",\n    \"lt\" : \"20241204T232132\",\n    \"rn\" : \"cin5155778\",\n    \"et\" : \"20241214T232132\",\n    \"st\" : 82,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139052\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232142\",\n    \"lt\" : \"20241204T232142\",\n    \"rn\" : \"cin5155781\",\n    \"et\" : \"20241214T232142\",\n    \"st\" : 83,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139057\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232153\",\n    \"lt\" : \"20241204T232153\",\n    \"rn\" : \"cin5155786\",\n    \"et\" : \"20241214T232153\",\n    \"st\" : 84,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139062\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232203\",\n    \"lt\" : \"20241204T232203\",\n    \"rn\" : \"cin5155791\",\n    \"et\" : \"20241214T232203\",\n    \"st\" : 85,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139066\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232213\",\n    \"lt\" : \"20241204T232213\",\n    \"rn\" : \"cin5155795\",\n    \"et\" : \"20241214T232213\",\n    \"st\" : 86,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139070\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232223\",\n    \"lt\" : \"20241204T232223\",\n    \"rn\" : \"cin5155799\",\n    \"et\" : \"20241214T232223\",\n    \"st\" : 87,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139075\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232233\",\n    \"lt\" : \"20241204T232233\",\n    \"rn\" : \"cin5155804\",\n    \"et\" : \"20241214T232233\",\n    \"st\" : 88,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139077\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232244\",\n    \"lt\" : \"20241204T232244\",\n    \"rn\" : \"cin5155806\",\n    \"et\" : \"20241214T232244\",\n    \"st\" : 89,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139081\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232254\",\n    \"lt\" : \"20241204T232254\",\n    \"rn\" : \"cin5155810\",\n    \"et\" : \"20241214T232254\",\n    \"st\" : 90,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139086\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232304\",\n    \"lt\" : \"20241204T232304\",\n    \"rn\" : \"cin5155815\",\n    \"et\" : \"20241214T232304\",\n    \"st\" : 91,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139089\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232314\",\n    \"lt\" : \"20241204T232314\",\n    \"rn\" : \"cin5155818\",\n    \"et\" : \"20241214T232314\",\n    \"st\" : 92,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139092\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232324\",\n    \"lt\" : \"20241204T232324\",\n    \"rn\" : \"cin5155821\",\n    \"et\" : \"20241214T232324\",\n    \"st\" : 93,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139096\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232335\",\n    \"lt\" : \"20241204T232335\",\n    \"rn\" : \"cin5155825\",\n    \"et\" : \"20241214T232335\",\n    \"st\" : 94,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-11",
+  "status_code": 201,
+  "error": "{\n  \"m2m:cin\" : {\n    \"ty\" : 4,\n    \"ri\" : \"D5139100\",\n    \"pi\" : \"R15637\",\n    \"ct\" : \"20241204T232345\",\n    \"lt\" : \"20241204T232345\",\n    \"rn\" : \"cin5155829\",\n    \"et\" : \"20241214T232345\",\n    \"st\" : 95,\n    \"cr\" : \"SOTIiithWQ1\",\n    \"cs\" : 57,\n    \"con\" : [ {\n      \"timestamp\" : \"2024-12-04T23:21:22.267853\",\n      \"value\" : 14.2\n    } ]\n  }\n}",
+  "username": "Surya Teja"
+},
+{
+  "node_id": "AQ-8989",
+  "status_code": 500,
+  "error": "Could not find the TLS certificate file, invalid path: C:\\Users\\NAGENDRA\\Desktop\\nodemulti\\node-simulator\\backend\\app\\routers\\certificates\\AQ-8989\\SOTIiithWQ1.crt",
+  "username": "Nagendra"
+},

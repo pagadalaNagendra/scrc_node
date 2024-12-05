@@ -1,0 +1,173 @@
+{
+  "node_id": "AQ-PH03-03",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-01",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "R140112",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "R14011",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-03",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-01",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "R140112",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "R14011",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-03",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-01",
+  "response": 403,
+  "error": ""
+},
+{
+  "node_id": "R140112",
+  "response": 404,
+  "error": ""
+},
+{
+  "node_id": "R14011",
+  "response": 201,
+  "data": {
+    "m2m:cin": {
+      "ty": 4,
+      "ri": "D4411671",
+      "pi": "R14011",
+      "ct": "20241007T182042",
+      "lt": "20241007T182042",
+      "rn": "cin4428316",
+      "et": "20241017T182042",
+      "st": 40744,
+      "cr": "SOTIiithWQ1",
+      "cs": 136,
+      "con": "[1728305330, 3.0968901403088926, 22.81210972932367, 14.347289778761786, 20.736397744195152]"
+    }
+  }
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 403,
+  "error": ""
+},
+{
+  "node_id": "R140112",
+  "response": 404,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 403,
+  "error": ""
+},
+{
+  "node_id": "R140112",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 500,
+  "error": ""
+},
+{
+  "node_id": "R14011",
+  "response": 201,
+  "data": {
+    "m2m:cin": {
+      "ty": 4,
+      "ri": "D4411674",
+      "pi": "R14011",
+      "ct": "20241007T182113",
+      "lt": "20241007T182113",
+      "rn": "cin4428319",
+      "et": "20241017T182113",
+      "st": 40745,
+      "cr": "SOTIiithWQ1",
+      "cs": 136,
+      "con": "[1728305330, 3.0968901403088926, 22.81210972932367, 14.347289778761786, 20.736397744195152]"
+    }
+  }
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 403,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 403,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 403,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 403,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 403,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 403,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 403,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 403,
+  "error": ""
+},
+{
+  "node_id": "AQ-PH03-00",
+  "response": 403,
+  "error": ""
+},

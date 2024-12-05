@@ -1,0 +1,40 @@
+{
+  "node_id": "Ello1234",
+  "status_code": 500,
+  "error": ""
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_63078650\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-63078650\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T104709\",\n      \"lt\" : \"20241109T104709\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:17:06.325072', 'value': 25.09}]\"\n   }\n}"
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_120305265\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-120305265\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T104714\",\n      \"lt\" : \"20241109T104714\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:17:06.325072', 'value': 25.09}]\"\n   }\n}"
+},
+{
+  "node_id": "Ello1234",
+  "status_code": 500,
+  "error": ""
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_975056216\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-975056216\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T104720\",\n      \"lt\" : \"20241109T104720\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:17:06.325072', 'value': 25.09}]\"\n   }\n}"
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_190266369\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-190266369\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T104725\",\n      \"lt\" : \"20241109T104725\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:17:06.325072', 'value': 25.09}]\"\n   }\n}"
+},
+{
+  "node_id": "Ello1234",
+  "status_code": 500,
+  "error": ""
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_523013509\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-523013509\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T104730\",\n      \"lt\" : \"20241109T104730\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:17:06.325072', 'value': 25.09}]\"\n   }\n}"
+},

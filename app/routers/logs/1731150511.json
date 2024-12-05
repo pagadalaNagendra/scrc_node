@@ -1,0 +1,15 @@
+{
+  "node_id": "Ello1234",
+  "status_code": 500,
+  "error": ""
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_8197334\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-8197334\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T110834\",\n      \"lt\" : \"20241109T110834\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:38:31.577157', 'value': 45.31}]\"\n   }\n}"
+},
+{
+  "node_id": "node-11011-11-1",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_690604016\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-690604016\",\n      \"pi\" : \"/in-cse/cnt-997975093\",\n      \"ct\" : \"20241109T110839\",\n      \"lt\" : \"20241109T110839\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 61,\n      \"con\" : \"[{'timestamp': '2024-11-09T16:38:31.577157', 'value': 45.31}]\"\n   }\n}"
+},

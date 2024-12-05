@@ -1,0 +1,20 @@
+{
+  "node_id": "Node-110304",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_188260325\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-188260325\",\n      \"pi\" : \"/in-cse/cnt-589474264\",\n      \"ct\" : \"20241018T110117\",\n      \"lt\" : \"20241018T110117\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 0,\n      \"con\" : \"\"\n   }\n}"
+},
+{
+  "node_id": "Node-11031004",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_853815\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-853815\",\n      \"pi\" : \"/in-cse/cnt-842079056\",\n      \"ct\" : \"20241018T110117\",\n      \"lt\" : \"20241018T110117\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 0,\n      \"con\" : \"\"\n   }\n}"
+},
+{
+  "node_id": "Node-11032004",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_912112037\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-912112037\",\n      \"pi\" : \"/in-cse/cnt-902455030\",\n      \"ct\" : \"20241018T110118\",\n      \"lt\" : \"20241018T110118\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 0,\n      \"con\" : \"\"\n   }\n}"
+},
+{
+  "node_id": "Node-11032004",
+  "status_code": 201,
+  "error": "{\n   \"m2m:cin\" : {\n      \"rn\" : \"cin_995680883\",\n      \"ty\" : 4,\n      \"ri\" : \"/in-cse/cin-995680883\",\n      \"pi\" : \"/in-cse/cnt-902455030\",\n      \"ct\" : \"20241018T110123\",\n      \"lt\" : \"20241018T110123\",\n      \"st\" : 0,\n      \"cnf\" : \"text/plain:0\",\n      \"cs\" : 0,\n      \"con\" : \"\"\n   }\n}"
+},
