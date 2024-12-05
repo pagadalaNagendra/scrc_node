@@ -1,0 +1,93 @@
+.streaming-data-container {
+  position: relative;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: white;
+  color: #0c0909;
+  font-family: monospace;
+  height: 100%; /* Maintain terminal height */
+  border-radius: 8px; /* Slightly rounded corners */
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+}
+
+/* Center the title */
+.terminal-title {
+  position: absolute;
+  top: 15%; /* Vertically center */
+  left: 50%; /* Horizontally center */
+  transform: translate(-50%, -50%); /* Center alignment correction */
+  font-size: 20px; /* Slightly larger font size */
+  font-weight: bold;
+  color: #333;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+.terminal-content {
+  flex-grow: 1;
+  overflow-y: auto;
+  background-color: #000; /* Black background for the terminal */
+  color: #fff; /* White text for readability */
+  border-radius: 5px;
+  padding: 25px; /* Padding around terminal content */
+  margin-top: 50px; /* Adjust to fit below title */
+  height: calc(150px); /* Increase height for the black screen */
+}
+
+.terminal-content pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin: 0;
+  font-size: 8px; /* Slightly larger text */
+  overflow-y: auto;
+}
+
+.terminal-controls {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.terminal-controls button {
+  padding: 2px 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.terminal-controls button:hover {
+  background-color: #0056b3;
+}
+
+.collapse-icon,
+.download-icon {
+  color: white;
+  font-size: 18px;
+}
+
+.new-data-indicator {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background-color: #28a745;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.collapse-button:hover {
+  background-color: #e0e0e0; /* Hover effect for collapse */
+}

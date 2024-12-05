@@ -1,0 +1,46 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #fd7e14;
+  }
+
+  .green-progress-bar {
+    width: 100%;
+    height: 45px; /* Increased height */
+  }
+  
+  .green-progress-bar::-webkit-progress-bar {
+    background-color: #e0e0e0; /* Light gray background */
+  }
+  
+  .green-progress-bar::-webkit-progress-value {
+    background-color: green; /* Green color for the progress */
+  }
+  
+  .green-progress-bar::-moz-progress-bar {
+    background-color: green; /* Firefox support */
+  }
+
+  progress::-webkit-progress-bar {
+      background-color: #e0e0e0; /* light gray background */
+    }
+    
+    progress::-webkit-progress-value {
+      background-color: green; /* green color for the progress */
+    }
+    
+    progress::-moz-progress-bar {
+      background-color: green; /* Firefox support */
+    }
+  
+  
+  

@@ -1,0 +1,51 @@
+.notification-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: -18px;
+  padding: 0px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  font-size: 0.85rem;
+}
+
+.alert-cards h3 {
+  font-size: 1rem;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.alert-cards {
+  max-height: 500px;
+  overflow-y: scroll;
+  scrollbar-width: none;
+  width: 96%;
+  margin-left: 10px;
+}
+
+.alert-cards::-webkit-scrollbar {
+  display: none;
+}
+
+.alert-card {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 12px;
+  padding: 6px 10px;
+  font-size: 0.8rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.css-kw13he-MuiDialogContent-root {
+  padding: 0px 0px !important;
+}
